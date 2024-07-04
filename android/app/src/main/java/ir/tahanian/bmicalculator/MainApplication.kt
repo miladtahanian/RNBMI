@@ -1,4 +1,4 @@
-package com.rnbmi
+package ir.tahanian.bmicalculator
 
 import android.app.Application
 import com.facebook.react.PackageList
